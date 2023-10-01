@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: aqua;
+    font-size: 35px;
+    padding: 5px;
+}
+
+main a {
+    text-decoration: none;
+    background-color: aqua;
+    font-size: 20px;    
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+    color:cornflowerblue ;
+    text-shadow: 0 8px 8px grey;
+}
+
+
+header {
+    background-color: cornflowerblue;
+    padding: 35px;
+    margin-bottom:15px;
+}
+
+nav a {
+    border-radius: 10px;
+    margin-left: 15px;
+    color: black;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+main p {
+    font-size: 20px;
+    color: cornflowerblue;
+    margin-left: 20px;
+}
+
+a:hover {
+    color: white;
+    background-color: cornflowerblue;
+    transition: all 2s linear
+}
+
+footer {
+    background-color: cornflowerblue;
+    padding: 15px;
+
+}
+
+footer a {
+    margin-left: 15px;
+}
+
+li {
+    font-size: 40px;
+    color: cornflowerblue;
+}
+
+.ulica {
+    margin-left: 15px;
+}
+
+main img {
+    position: absolute;
+    right:300px;
+    top: 280px;
+}
+
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+.Tilda {
+    margin-top: 70px;
+}
+
+h2 {
+    font-size: 50px;
+}
